@@ -4,19 +4,11 @@ This file file serves as your book's preface, a great place to describe your boo
 
 adfa
 
-
-
 asdfadsfasf
 
 a
 
-
-
-
-
 afdafaf
 
-
-
-_**XYZ**_
+[_**XYZ**_](/zhi-dou-dou-jun-de-hua.md)
 
